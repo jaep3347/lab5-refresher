@@ -36,6 +36,17 @@
     "coverage": {
       "/Users/jp/Desktop/67373/lab5-choretracker-starter/app/models/child.rb": [
         1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        3,
+        2,
+        null,
+        1,
+        3,
+        null,
         null,
         null
       ],
@@ -45,8 +56,8 @@
         null
       ],
       "/Users/jp/Desktop/67373/lab5-choretracker-starter/app/models/chore.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/jp/Desktop/67373/lab5-choretracker-starter/app/models/task.rb": [
         0,
@@ -304,6 +315,6 @@
         0
       ]
     },
-    "timestamp": 1612448474
+    "timestamp": 1612448916
   }
 }
